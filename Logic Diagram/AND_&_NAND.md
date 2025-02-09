@@ -16,7 +16,7 @@
 
 - **3**
 
-![alt text](image.png)
+![Image](https://github.com/user-attachments/assets/196e91a1-427a-4abb-8d58-b642c421f548)
 
 - **4** 
 
@@ -25,12 +25,12 @@
 
 ## NAND
 
-![alt text](image-1.png)
+![Image](https://github.com/user-attachments/assets/6facd90d-2698-4e18-b691-1525359d02cd)
 
-![alt text](image-2.png)
+![Image](https://github.com/user-attachments/assets/48e4401b-5bdc-4ea5-b932-55c2991a740a)
 
-![alt text](image-3.png)
+![Image](https://github.com/user-attachments/assets/811ff49c-9348-496c-975f-044907480c49)
 
-![alt text](image-4.png)
+![Image](https://github.com/user-attachments/assets/4be78f6f-537b-4a4f-986e-5aaa6b191783)
 
 # End
